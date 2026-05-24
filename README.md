@@ -1,11 +1,12 @@
-# Hi, I'm Anca Miller 👋
+# Hi, I'm Anca 👋
 
-Welcome to my GitHub profile.
+QA engineer exploring GitHub and sharing testing work.
 
 ## About me
 
-- 🌱 I'm new here and building my first projects
-- 💡 Interested in learning and sharing code
+- 🧪 Manual and automated testing
+- 🔍 Bug hunting, test cases, and clear reports
+- 🌱 Building my portfolio and learning new tools
 - 📫 GitHub: [@ancaferro](https://github.com/ancaferro)
 
 ## GitHub Stats
