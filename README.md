@@ -1,9 +1,9 @@
 # Hi, I'm Anca 👋
 
-QA Engineer with 3 years of experience. I write automated tests and enjoy making software more reliable.
+QA Engineer with 3 years of experience. I write automated tests.
 
-Lately I've been contributing to open source — testing, reporting bugs, and helping fix them. It's a hands-on way to grow my skills and learn from real projects.
+I've actively started contributing to open source — testing and fixing bugs — to grow my experience and learn on real projects.
 
-**Stack:** Cursor + Codex
+**Stack:** GitHub + Cursor + Codex
 
-Thanks for stopping by!
+Thank you!
