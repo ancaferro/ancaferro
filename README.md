@@ -1,19 +1,9 @@
 # Hi, I'm Anca 👋
 
-**QA Engineer** — I test software with attention to detail and document what I find clearly.
+QA Engineer with 3 years of experience. I write automated tests and enjoy making software more reliable.
 
-## About me
+Lately I've been contributing to open source — testing, reporting bugs, and helping fix them. It's a hands-on way to grow my skills and learn from real projects.
 
-I work with manual and automated testing: from exploring new features to checking regressions before release. I care about reproducible bug reports, structured test cases, and making quality visible to the team.
+**Stack:** Cursor + Codex
 
-## What I work with
-
-- Functional, regression, and exploratory testing
-- Test cases, checklists, and bug reports
-- API testing basics, DevTools, Postman
-- Jira and test management tools
-- Git for everyday workflow
-
-## Now
-
-Building my portfolio here — pet projects, test documentation, and small automation examples as I grow as a QA engineer.
+Thanks for stopping by!
