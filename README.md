@@ -2,6 +2,6 @@
 
 QA Engineer with experience since 2022
 
-**Stack:** GitHub + Cursor + Codex
+Stack: GitHub + Cursor + Codex
 
-Thank you!
+Thanks for stopping by! Hope to see you again soon.
