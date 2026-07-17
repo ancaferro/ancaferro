@@ -4,7 +4,7 @@ QA Engineer with experience since 2022
 
 Stack: GitHub + Cursor + Codex
 
-## Some of my work
+Some of my projects:
 
 **[myNetwork](https://github.com/ancaferro/myNetwork)**: cross-platform LAN & port scanner with a Windows XP style GUI.
 
